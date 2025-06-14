@@ -12,13 +12,8 @@
 
 
 <!-- PROJECT SHIELDS -->
-![License](https://img.shields.io/github/license/SpencerVJones/ThreadsClone?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/SpencerVJones/ThreadsClone?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/SpencerVJones/ThreadsClone?style=for-the-badge)
-![Stargazers](https://img.shields.io/github/stars/SpencerVJones/ThreadsClone?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/SpencerVJones/ThreadsClone?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/SpencerVJones/ThreadsClone?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/SpencerVJones/ThreadsClone?style=for-the-badge)
+<div align="center">
+
 ![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg?style=for-the-badge)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-Framework-blue.svg?style=for-the-badge)
 ![Combine](https://img.shields.io/badge/Combine-Framework-purple.svg?style=for-the-badge)
@@ -27,6 +22,16 @@
 ![Auth](https://img.shields.io/badge/Firebase%20Auth-✔️-orange.svg?style=for-the-badge)
 ![Firestore](https://img.shields.io/badge/Firebase%20Firestore-✔️-yellow.svg?style=for-the-badge)
 ![Storage](https://img.shields.io/badge/Firebase%20Storage-✔️-blue.svg?style=for-the-badge)
+![License](https://img.shields.io/github/license/SpencerVJones/ThreadsClone?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/SpencerVJones/ThreadsClone?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/SpencerVJones/ThreadsClone?style=for-the-badge)
+![Stargazers](https://img.shields.io/github/stars/SpencerVJones/ThreadsClone?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/SpencerVJones/ThreadsClone?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/SpencerVJones/ThreadsClone?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/SpencerVJones/ThreadsClone?style=for-the-badge)
+
+
+</div>
 
 
 ## 📑 Table of Contents
